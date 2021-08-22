@@ -14,7 +14,7 @@
 
 ## Projects
 
-Check out my projects.
+Check out some of my projects.
 
 ### [NPM packages](https://www.npmjs.com/~rodrigues-t)
 react-bootstrap-input-spinner: [NPM](https://www.npmjs.com/package/react-bootstrap-input-spinner) | [repo](https://github.com/rodrigues-t/react-bootstrap-input-spinner)  
